@@ -1,0 +1,31 @@
+{
+  "name": "calendar",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "history": "^4.7.2",
+    "lodash": "^4.17.4",
+    "lorem-ipsum": "^1.0.4",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.12.3",
+    "normalizr": "^3.2.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "next",
+    "react-scripts": "1.0.14",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
